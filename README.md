@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 
-Develope by Pankaj Mandal
 
-Demo: https://pankajmandal10.github.io/weatherapp/
+Made with :heart: by [Pankaj Mandal](https://www.linkedin.com/in/pankaj-mandal10)
+
+See [Live Demo] : https://pankajmandal10.github.io/weatherapp/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
